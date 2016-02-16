@@ -1,0 +1,30 @@
+{
+  "name": "gulp-es6",
+  "version": "0.0.1",
+  "description": "using es6 with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marti1125/gulp-es6.git"
+  },
+  "keywords": [
+    "gulp",
+    "es6"
+  ],
+  "author": "Willy Aguirre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marti1125/gulp-es6/issues"
+  },
+  "homepage": "https://github.com/marti1125/gulp-es6#readme",
+  "dependencies": {    
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "babel-core": "^6.5.2",
+    "babel-preset-es2016-node5": "^1.1.2"
+  }
+}
