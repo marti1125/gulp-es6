@@ -63,7 +63,7 @@ gulp.task('build', (cb) => {
 
 gulp.task('watch', () => {
   gulp.watch(paths.sass, ['styles']);
-  gulp.watch(paths.jade, ['hhtmltml']);
+  gulp.watch(paths.jade, ['html']);
   gulp.watch(paths.assets, ['assets']);
 });
 
